@@ -36,8 +36,7 @@
             // 
             // spinnerCtrlBtn
             // 
-            this.spinnerCtrlBtn.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (32)))), ((int) (((byte) (32)))), ((int) (((byte) (32)))));
-            this.spinnerCtrlBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.spinnerCtrlBtn.BackColor = System.Drawing.SystemColors.Control;
             this.spinnerCtrlBtn.Location = new System.Drawing.Point(15, 90);
             this.spinnerCtrlBtn.Name = "spinnerCtrlBtn";
             this.spinnerCtrlBtn.Size = new System.Drawing.Size(97, 23);
@@ -48,9 +47,7 @@
             // 
             // comboBox1
             // 
-            this.comboBox1.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (32)))), ((int) (((byte) (32)))), ((int) (((byte) (32)))));
-            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBox1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.comboBox1.BackColor = System.Drawing.SystemColors.Control;
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {"Dots", "Dots2", "Dots3", "Dots4", "Dots5", "Dots8Bit", "Dots9", "Dots10", "Dots11", "Dots12", "Progress7", "Progress10", "Line"});
             this.comboBox1.Location = new System.Drawing.Point(12, 35);
@@ -71,7 +68,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (32)))), ((int) (((byte) (32)))), ((int) (((byte) (32)))));
+            this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(331, 125);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.comboBox1);
