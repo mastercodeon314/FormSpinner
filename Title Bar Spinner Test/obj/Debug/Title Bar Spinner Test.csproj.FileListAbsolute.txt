@@ -8,3 +8,13 @@ C:\Users\ADMIN\RiderProjects\Title Bar Spinner Test\Title Bar Spinner Test\obj\D
 C:\Users\ADMIN\RiderProjects\Title Bar Spinner Test\Title Bar Spinner Test\obj\Debug\Title_Bar_Spinner_Test.exe
 C:\Users\ADMIN\RiderProjects\Title Bar Spinner Test\Title Bar Spinner Test\obj\Debug\Title_Bar_Spinner_Test.pdb
 C:\Users\ADMIN\RiderProjects\Title Bar Spinner Test\Title Bar Spinner Test\obj\Debug\Title_Bar_Spinner_Test.Form1.resources
+C:\Users\ADMIN\Documents\GitHub\FormSpinner\Title Bar Spinner Test\bin\Debug\Title_Bar_Spinner_Test.exe.config
+C:\Users\ADMIN\Documents\GitHub\FormSpinner\Title Bar Spinner Test\bin\Debug\Title_Bar_Spinner_Test.exe
+C:\Users\ADMIN\Documents\GitHub\FormSpinner\Title Bar Spinner Test\bin\Debug\Title_Bar_Spinner_Test.pdb
+C:\Users\ADMIN\Documents\GitHub\FormSpinner\Title Bar Spinner Test\obj\Debug\Title Bar Spinner Test.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\GitHub\FormSpinner\Title Bar Spinner Test\obj\Debug\Title_Bar_Spinner_Test.Form1.resources
+C:\Users\ADMIN\Documents\GitHub\FormSpinner\Title Bar Spinner Test\obj\Debug\Title_Bar_Spinner_Test.Properties.Resources.resources
+C:\Users\ADMIN\Documents\GitHub\FormSpinner\Title Bar Spinner Test\obj\Debug\Title Bar Spinner Test.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\GitHub\FormSpinner\Title Bar Spinner Test\obj\Debug\Title Bar Spinner Test.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\FormSpinner\Title Bar Spinner Test\obj\Debug\Title_Bar_Spinner_Test.exe
+C:\Users\ADMIN\Documents\GitHub\FormSpinner\Title Bar Spinner Test\obj\Debug\Title_Bar_Spinner_Test.pdb
