@@ -496,12 +496,12 @@ namespace SimpleCore.Cli
 		    this.formOldText = this.frmWindow.Text;
 	    }
 
-	    private delegate void SafeCallDelegate(string text);
+	    private delegate void setFormTextDelegate(string text);
 	    private void setFormText(string text)
 	    {
 		    if (this.frmWindow.InvokeRequired)
 		    {
-			    var d = new SafeCallDelegate(setFormText);
+			    var d = new setFormTextDelegate(setFormText);
 			    this.frmWindow.Invoke(d, new object[] { text });
 		    }
 		    else
