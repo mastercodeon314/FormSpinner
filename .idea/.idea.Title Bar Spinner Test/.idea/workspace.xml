@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40b7d32f-a7ae-4e3c-a2e5-9986d7685259" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Title Bar Spinner Test/bin/Debug/Title_Bar_Spinner_Test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Title Bar Spinner Test/bin/Debug/Title_Bar_Spinner_Test.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Title Bar Spinner Test/bin/Debug/Title_Bar_Spinner_Test.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Title Bar Spinner Test/bin/Debug/Title_Bar_Spinner_Test.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Title Bar Spinner Test/obj/Debug/Title Bar Spinner Test.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Title Bar Spinner Test/obj/Debug/Title Bar Spinner Test.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Title Bar Spinner Test/obj/Debug/Title_Bar_Spinner_Test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Title Bar Spinner Test/obj/Debug/Title_Bar_Spinner_Test.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Title Bar Spinner Test/obj/Debug/Title_Bar_Spinner_Test.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Title Bar Spinner Test/obj/Debug/Title_Bar_Spinner_Test.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1u07to39dmK2yLuKGZUANIB60Wp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Title Bar Spinner Test" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Title Bar Spinner Test/Title Bar Spinner Test.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40b7d32f-a7ae-4e3c-a2e5-9986d7685259" name="Default Changelist" comment="" />
+      <created>1623790870799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623790870799</updated>
+      <workItem from="1623790879223" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1860" height="292" key="GridCell.Tab.0.bottom" timestamp="1623790902139">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1623790902139" />
+    <state width="1860" height="292" key="GridCell.Tab.0.center" timestamp="1623790902139">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="292" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1623790902139" />
+    <state width="1860" height="292" key="GridCell.Tab.0.left" timestamp="1623790902139">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="292" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1623790902139" />
+    <state width="1860" height="292" key="GridCell.Tab.0.right" timestamp="1623790902139">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="292" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1623790902139" />
+  </component>
+</project>
